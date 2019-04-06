@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">汽油或乙醇</string>
+    <string name="preco_da_gasolina">每升气体价格:</string>
+    <string name="preco_do_etanol">每升乙醇的价格:</string>
+    <string name="melhor_usar">最好使用...</string>
+    <string name="gasolina">汽油</string>
+    <string name="etanol">乙醇</string>
+</resources>

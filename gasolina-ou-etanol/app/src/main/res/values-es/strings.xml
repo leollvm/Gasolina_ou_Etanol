@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gasolina o Etanol</string>
+    <string name="preco_da_gasolina">Precio de la gasolina por litro:</string>
+    <string name="preco_do_etanol">Precio del etanol por litro:</string>
+    <string name="melhor_usar">Es mejor usar...</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="etanol">Etanol</string>
+</resources>
